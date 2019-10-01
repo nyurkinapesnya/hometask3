@@ -1,0 +1,53 @@
+html {
+    height: 100%;
+    padding: 0% 20%;
+    }
+
+body {
+    height: 100%;
+}
+
+main {
+    height: 80%;
+}
+
+main:after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+h1 {
+    background-color: #A52A2A;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+main {
+    font-size: 18px;
+    margin: 0%;
+}
+
+#word1 {
+    color: #080AFF;
+    font-weight: bold;
+}
+
+.cars {
+    text-align: center;
+}
+
+.cars1 {
+    border-style: dashed;
+}
+
+.word2 {
+    color: #030DFF;
+}
+
+footer {
+    text-align: center;
+    font-size: 20px;
+    background-color: #000000;
+    color: #F6FBF2;
+}
